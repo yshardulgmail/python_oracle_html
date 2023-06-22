@@ -1,0 +1,8 @@
+{
+    "config": {
+        "db_user": "pydbuser",
+        "db_pass": "oracle",
+        "dsn": "localhost/xepdb1",
+        "port": 1521
+    }
+}
